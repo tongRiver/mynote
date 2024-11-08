@@ -1,0 +1,11 @@
+[
+	{
+		"name": "siyuan-plugin-formatPainter",
+		"displayName": "格式刷",
+		"enabled": true,
+		"incompatible": false,
+		"js": "",
+		"css": "",
+		"i18n": null
+	}
+]
